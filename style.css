@@ -282,3 +282,54 @@ line-height: 1.7;
   height: 500px;
   border-radius: 23px;
 } */
+
+/* REVIEWS SECTION */
+.reviews-cards{
+  margin-top: 180px;
+}
+.review-cards-container{
+display: flex;
+gap: 14px;
+}
+.review-cards-container div{
+  
+  background-color: #76d7c4;
+  /* #d1f2eb */
+  padding: 10px;
+  border-radius: 12px;
+  
+  }
+  .review-cards-container p{
+  color: #003300;
+  font-size: 15px;
+  line-height: 1.6;
+    }
+.review-text-main{
+  font-size: 62px;
+  color: #003300;
+  text-align: center;
+  font-weight: 300;
+  line-height: 0.8;
+  margin-bottom: 64px;
+}
+.reviews-cards-inner{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.reviews-card-top{
+  display: flex;
+  gap: 10px;
+}
+.client-pics{
+
+  width: 44px;
+  height: 44px;
+border-radius: 50%;
+  display: block;
+}
+
+.review-date{
+margin-top: auto;
+}
+
