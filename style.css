@@ -333,3 +333,44 @@ border-radius: 50%;
 margin-top: auto;
 }
 
+
+/* APP DOWNLOAD SECTION  */
+.download-app {
+  width: 1200px;
+  margin: 0 auto;
+  background-color: #abebc6;
+  padding: 30px;
+  border-radius: 18px;
+}
+.app-cards {
+  display: flex;
+}
+.app-card1 {
+  width: 400px;
+  padding: 50px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+.app-card2 {
+  margin-left: auto;
+}
+.apple-store-badge {
+  width: 400px;
+}
+.google-store-badge {
+  /* width: 120px; */
+}
+.fitforge-mockup {
+  width: 400px;
+  padding: 20px;
+  transform: scale(1.2);
+}
+.app-text-big {
+  font-size: 32px;
+  color: #0b5345;
+}
+.app-text-small {
+  font-size: 18px;
+}
