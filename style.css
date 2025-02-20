@@ -337,8 +337,8 @@ margin-top: auto;
 /* APP DOWNLOAD SECTION  */
 .download-app {
   width: 1200px;
-  margin: 0 auto;
-  background-color: #abebc6;
+  margin: 120px auto 0;
+  background-color: #00ffcc;
   padding: 30px;
   border-radius: 18px;
 }
